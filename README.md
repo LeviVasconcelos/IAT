@@ -17,6 +17,7 @@ IAT - Image Annotation Tool, is a desktop software written in python and OpenCV 
   - `w` go forward on the image set
   - `x` exit program
   - `o` force save current window
+  - `r` redraw windows.
 
 
 This text you see here is *actually* written in Markdown! To get a feel for Markdown's syntax, type some text into the left window and watch the results in the right.
