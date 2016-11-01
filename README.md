@@ -2,7 +2,7 @@
 
 [![N|Solid](http://opencv.org/wp-content/themes/opencv/images/logo.png)](http://opencv.org/)
 
-IAT - Image Annotation Tool, is a desktop software written in python and OpenCV to help building your own image annotated dataset! Currently, the software is configured for two different classes, but it is easily extensible.
+IAT - Image Annotation Tool, is a desktop software written in python and OpenCV to help building your own image annotated dataset! Currently, the software is configured for two different classes, but it is easily extendable.
 
 ### How it works
   - Put images on the '/img' folder, besides the main.py script
