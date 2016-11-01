@@ -2,17 +2,17 @@
 
 [![N|Solid](http://opencv.org/wp-content/themes/opencv/images/logo.png)](http://opencv.org/)
 
-IAT - Head tagger, is a desktop software written in python and OpenCV to select people heads on video frames. Those tagged heads can be used as training data for your intelligent algorithms!
+IAT - Image Annotation Tool, is a desktop software written in python and OpenCV to help building your own image annotated dataset! Currently, the software is already configured to two different classes, but it is easily extensible.
 
 ### How it works
   - Put images on the '/img' folder, besides the main.py script
-  - With the mouse pointer, select a head in the picture and then press: `1` or `2` to mark as head or no-head.
+  - With the mouse pointer, annotate your picture and then press: `1` or `2` to mark as class 1 or 2.
   - To navigate thru the images press `q` or `w`
 
 ### TL;DR
 
-  - `1` to mark as HEAD
-  - `2` to mark as NO-HEAD
+  - `1` to mark as class 1
+  - `2` to mark as class 2
   - `q` go backwards on the image set
   - `w` go forward on the image set
   - `x` exit program
