@@ -13,6 +13,7 @@ IAT - Image Annotation Tool, is a desktop software written in python and OpenCV 
 
   - `1` to mark as class 1
   - `2` to mark as class 2
+  - `ESC` remove the selected window
   - `q` go backwards on the image set
   - `w` go forward on the image set
   - `x` exit program
