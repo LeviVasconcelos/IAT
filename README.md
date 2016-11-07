@@ -1,4 +1,4 @@
-# IAT - Head tagger
+# IAT - Image Annotation Tool
 
 [![N|Solid](http://opencv.org/wp-content/themes/opencv/images/logo.png)](http://opencv.org/)
 
